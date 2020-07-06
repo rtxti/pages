@@ -2,8 +2,8 @@
 title: wtf
 description: A Happyae playground
 
-url: https://happyaeorg.github.io/
-baseurl: wtf
+url: https://happyaeorg.github.io
+baseurl: /wtf
 
 permalink: pretty
 
