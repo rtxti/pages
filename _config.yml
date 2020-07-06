@@ -1,0 +1,20 @@
+# Site setup
+title: wtf
+description: A Happyae playground
+
+url: https://happyaeorg.github.io/
+baseurl: wtf
+
+permalink: pretty
+
+timezone: Asia/Jakarta
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+author:
+  name: Happyaeorg
+  url: https://happyaeorg.github.io/website/
+  
+version: 1.0.0
