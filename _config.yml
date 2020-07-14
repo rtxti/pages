@@ -1,9 +1,9 @@
 # Site setup
-title: wtf
-description: A Happyae playground
+title: Pages
+description: Simple Jekyll site
 
-url: https://happyaeorg.github.io
-baseurl: /wtf
+url: https://rtxti.github.io
+baseurl: /pages
 
 permalink: pretty
 
@@ -14,7 +14,7 @@ sass:
   style: :compressed
 
 author:
-  name: Happyaeorg
-  url: https://happyaeorg.github.io/website/
+  name: rtxti
+  email: rtxti@outlook.com
   
 version: 1.0.0
