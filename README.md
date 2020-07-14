@@ -1,2 +1,2 @@
-# wtf
-A Happyaeorg playground
+# pages
+Simple Jekyll site
